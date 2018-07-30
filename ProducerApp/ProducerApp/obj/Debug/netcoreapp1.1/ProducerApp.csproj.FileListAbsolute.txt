@@ -1,0 +1,9 @@
+E:\MyApps\Wonga\ProducerApp\ProducerApp\bin\Debug\netcoreapp1.1\ProducerApp.deps.json
+E:\MyApps\Wonga\ProducerApp\ProducerApp\bin\Debug\netcoreapp1.1\ProducerApp.runtimeconfig.json
+E:\MyApps\Wonga\ProducerApp\ProducerApp\bin\Debug\netcoreapp1.1\ProducerApp.runtimeconfig.dev.json
+E:\MyApps\Wonga\ProducerApp\ProducerApp\bin\Debug\netcoreapp1.1\ProducerApp.dll
+E:\MyApps\Wonga\ProducerApp\ProducerApp\obj\Debug\netcoreapp1.1\ProducerApp.csprojResolveAssemblyReference.cache
+E:\MyApps\Wonga\ProducerApp\ProducerApp\obj\Debug\netcoreapp1.1\ProducerApp.AssemblyInfo.cs
+E:\MyApps\Wonga\ProducerApp\ProducerApp\bin\Debug\netcoreapp1.1\ProducerApp.pdb
+E:\MyApps\Wonga\ProducerApp\ProducerApp\obj\Debug\netcoreapp1.1\ProducerApp.dll
+E:\MyApps\Wonga\ProducerApp\ProducerApp\obj\Debug\netcoreapp1.1\ProducerApp.pdb

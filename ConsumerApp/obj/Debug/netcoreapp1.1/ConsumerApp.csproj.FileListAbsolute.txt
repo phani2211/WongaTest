@@ -1,0 +1,9 @@
+E:\MyApps\Wonga\ConsumerApp\bin\Debug\netcoreapp1.1\ConsumerApp.deps.json
+E:\MyApps\Wonga\ConsumerApp\bin\Debug\netcoreapp1.1\ConsumerApp.runtimeconfig.json
+E:\MyApps\Wonga\ConsumerApp\bin\Debug\netcoreapp1.1\ConsumerApp.runtimeconfig.dev.json
+E:\MyApps\Wonga\ConsumerApp\bin\Debug\netcoreapp1.1\ConsumerApp.dll
+E:\MyApps\Wonga\ConsumerApp\obj\Debug\netcoreapp1.1\ConsumerApp.AssemblyInfo.cs
+E:\MyApps\Wonga\ConsumerApp\bin\Debug\netcoreapp1.1\ConsumerApp.pdb
+E:\MyApps\Wonga\ConsumerApp\obj\Debug\netcoreapp1.1\ConsumerApp.dll
+E:\MyApps\Wonga\ConsumerApp\obj\Debug\netcoreapp1.1\ConsumerApp.pdb
+E:\MyApps\Wonga\ConsumerApp\bin\Debug\netcoreapp1.1\log4net.config
